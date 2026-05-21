@@ -172,3 +172,48 @@ Cao trào không nhất thiết phải là đánh nhau. Có thể là:
 - Đừng để nhân vật "có căn cứ" chung chung. Hãy cho người nghe nhớ: cái cửa kêu, thùng nước đặt dưới gầm, giường ai ngủ cạnh tường, dây bẫy buộc ở đâu.
 - Khi cơ nghiệp lớn lên, kẻ thù không chỉ muốn giết nhân vật; họ muốn mua, thuê, đánh thuế, chiếm, hợp thức hóa hoặc biến nó thành tài sản của hệ thống.
 - Người nghe phải đếm được tiến độ: hôm qua chỉ có một cốc nước đục, hôm nay có một bình lọc; hôm qua Tần Dã nằm, hôm nay anh canh được nửa đêm; hôm qua Lâm Tịch đi xin việc, hôm nay có người tới xin đổi đồ.
+
+## 10. Engine Đếm Ngược Và Tích Trữ
+
+Dùng khi muốn truyện có nhịp gấp, căng, khiến người nghe liên tục hỏi "còn kịp không?"
+
+### Công Thức Đếm Ngược
+
+1. **Đặt đồng hồ**: còn bao lâu trước khi thuốc hết, bão tới, cổng đóng, nước bị cắt, thú kéo đàn tới.
+2. **Liệt kê nhu cầu**: nước, thuốc, đồ ăn, dây, da cách xạ, tinh thạch, chỗ trú, giấy tờ.
+3. **Giới hạn tài nguyên**: chỉ có từng ấy tinh thạch, từng ấy sức, từng ấy thời gian, từng ấy người tin được.
+4. **Cho lựa chọn đau**: mua thuốc thì thiếu đồ lọc; cứu người thì lỡ chuyến; bán lõi thú thì lộ dấu Hắc Nha.
+5. **Cho biến cố đến sớm**: bão tới trước dự báo, kiểm tra đột xuất, thú đổi đường, người giữ hàng chết.
+6. **Kết bằng thứ chưa chuẩn bị xong**: bình lọc còn thiếu lõi, thuốc chỉ đủ nửa liều, cửa đã khóa nhưng mái chưa vá.
+
+### Tích Trữ Nghèo
+
+Tích trữ không cần kho lớn mới hay. Với truyện phế thổ, kho càng nhỏ càng căng:
+
+- một bình nước chỉ còn hai vạch;
+- ba viên thuốc, mỗi viên đổi bằng một ân tình;
+- một tấm vải sạch phải chọn dùng băng vết thương hay lọc nước;
+- một lõi thú có thể bán hoặc dùng sửa máy lọc;
+- một viên tinh thạch bẩn không đủ vào thành nhưng đủ mua một đêm không chết lạnh.
+
+### Cao Trào Theo Tầng Thiên Tai
+
+Không ném tất cả nguy hiểm cùng lúc. Đẩy từng lớp:
+
+1. **Dấu hiệu**: mùi kim loại, gió nóng, nước đổi màu, thú im tiếng.
+2. **Bất tiện**: xếp hàng dài, giá tăng, trạm đóng sớm.
+3. **Thiếu hụt**: hết nước sạch, thuốc bị thu mua, đồ ăn nhiễm độc.
+4. **Đe dọa thân thể**: sốt phóng xạ, gene co giật, da bỏng, thú săn mùi máu.
+5. **Đe dọa xã hội**: cướp, kiểm tra giấy, phe phái ép hợp đồng.
+6. **Đe dọa đạo đức**: phải chọn cứu ai, bán gì, giấu gì, phản bội luật nào.
+
+### Tiêu Đề Kiểu Đếm Ngược
+
+Tiêu đề nên cho người nghe thấy ngay nguy cơ:
+
+- "Ba Mươi Sáu Giờ Thuốc"
+- "Bão Bụi Đỏ Đến Sớm"
+- "Nước Chỉ Còn Hai Vạch"
+- "Chợ Đen Đóng Trước Nửa Đêm"
+- "Một Lõi Thú, Hai Mạng Người"
+- "Cổng Thành Không Mở Lần Hai"

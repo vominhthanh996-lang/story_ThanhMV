@@ -100,3 +100,33 @@ Từ khóa xuất hiện dày trong 100 chương: cá, điểm tích lũy, phón
 - Thú biến dị trong truyện mình nên có công dụng sau khi chết hoặc sau khi thuần hóa tạm thời: kéo đồ, lọc độc, báo động, lấy da, lấy tuyến, lấy lõi, đổi thuốc.
 - Các cao trào sau nên đa dạng hơn: không chỉ Hắc Nha truy sát, mà còn tranh chấp đường nước, tỷ lệ hạt sạch thất bại, hàng xóm phản bội, trạm lọc ép hợp đồng, thú bị mùi tinh thạch kéo tới.
 - Có thể thêm "hài sinh tồn khô": A Thất mặc cả quá lố, Di Mạn mắng trong lúc cứu người, Tần Dã nói một câu lạnh làm cả đội im, Lâm Tịch tiếc nửa cái đinh gỉ hơn một lời khen.
+
+## Tham khảo: Khương Vưu - Mạt Thế Đừng Hoảng, Tích Lương Trước Rồi Tích Súng
+
+- **Nguồn học**: Biển Truyện, truyện mạt thế trọng sinh/tích trữ/xây dựng/nữ cường. Bộ này có yếu tố không gian và zombie nên không dùng trực tiếp cho truyện của mình, nhưng có thể học cách tạo áp lực tài nguyên và đếm ngược tận thế.
+- **Phạm vi học trong lượt này**: quét tiêu đề và cấu trúc 50 chương đầu. HTML nguồn có nhiều dữ liệu nhúng làm thống kê số từ bị phồng, nên chỉ dùng nhịp tiêu đề/arc/từ khóa, không dùng số từ làm chuẩn.
+
+### Nhịp 50 Chương Đầu
+
+- **Chương 1-6**: trọng sinh, quan hệ gia đình/xã hội độc hại, di vật, không gian, bản ghi âm. Giai đoạn này tạo "nợ thù" và lý do nhân vật phải lạnh tay.
+- **Chương 7-13**: tích trữ vật tư, chọn vũ khí im lặng, cảnh báo nhiệt độ cao, bão, mua sắm cuối cùng, thành phố chìm, đồng hồ đếm ngược. Đây là chuỗi đếm ngược rất mạnh: mỗi chương kéo người nghe bằng câu hỏi "còn kịp chuẩn bị gì nữa?"
+- **Chương 14-21**: mất điện, zombie dưới nước, tù vượt ngục, luyện tập, bản chất con người, sinh vật bẩn/ruồi. Cao trào xã hội bắt đầu thay thế cao trào thiên tai.
+- **Chương 22-32**: xung đột người sống sót, mèo biến dị, mời gia nhập, xác sống cấp hai, tinh hạch. Truyện chuyển từ phòng thủ sang săn tài nguyên.
+- **Chương 33-50**: khẩu vị/tài nguyên tăng, di tản, kẻ mạnh nuốt kẻ yếu, hướng tiến hóa khác, xương rồng biến dị, kế hoạch luyện tập. Đây là nhịp nâng cấp chiến đấu và bản đồ.
+
+### Quy Luật Craft Rút Ra
+
+- **Đếm ngược tạo nghiện**: trước khi tận thế nổ ra, mỗi chương phải có một món chuẩn bị rõ: gạo, nước, thuốc, vũ khí, xe, nhiên liệu, chỗ trú, thông tin, chứng cứ, đường thoát.
+- **Tích trữ chỉ cuốn khi có giới hạn**: thời gian ít, tiền hữu hạn, người khác nghi ngờ, món hàng khan, thiên tai tới sớm, một lựa chọn mua cái này nghĩa là bỏ cái kia.
+- **Thiên tai nên đánh theo tầng**: nóng cực đoan -> bão/mưa -> ngập -> mất điện -> xác sống/sinh vật biến dị -> con người trở mặt -> tài nguyên mới như tinh hạch.
+- **Vũ khí/công cụ phải hợp môi trường**: vũ khí im lặng, nỏ/cung, dây, dao, xe, đồ bảo hộ. Không phải lúc nào súng cũng là câu trả lời hay nhất.
+- **Cao trào đạo đức trong mạt thế**: khi trật tự sụp, câu hỏi không phải "ai tốt ai xấu" mà là "mình sẽ làm gì để sống, và cái giá có khiến mình ghét chính mình không?"
+- **Tiêu đề nên sắc và có lực**: "Cảnh Báo Nhiệt Độ Cao", "Cơn Bão Ập Đến", "Thành Phố Chìm Trong Biển Nước", "Đồng Hồ Đếm Ngược Tận Thế", "Kẻ Mạnh Nuốt Kẻ Yếu". Tiêu đề trực tiếp báo cao trào, rất hợp video.
+
+### Cách Chuyển Hóa Cho "Phế Thổ: Ta Nhặt Được Cả Thế Giới"
+
+- Không dùng trọng sinh/không gian/zombie theo bộ này. Truyện của mình giữ xuyên không, phế thổ, không dị năng, không hệ thống.
+- Có thể dùng **đếm ngược sinh tồn**: thuốc ổn định gen của Tần Dã còn 36 giờ; bão bụi đỏ tới lúc nửa đêm; thẻ nước hết hạn sau ba ngày; trạm lọc đóng van sau khi chuông thành vang.
+- Tích trữ của Lâm Tịch không phải kho vô hạn mà là kho nghèo: nửa túi muối, ba viên lọc, hai mét dây, một tấm da thú, bốn tinh thạch bẩn. Càng nghèo càng phải tính kỹ.
+- Cao trào nên đánh theo tầng: thiếu nước -> tìm nguồn -> nguồn có thú -> thú có lõi -> lõi bị Hắc Nha nhận ra -> muốn bán lõi phải vào chợ đen -> chợ đen có người quen của Tần Dã.
+- Tiêu đề phần/chương sau có thể sắc hơn: "Ba Mươi Sáu Giờ Thuốc", "Bình Lọc Không Được Rơi", "Bão Bụi Đỏ Đến Sớm", "Lõi Thú Mang Dấu Hắc Nha", "Cái Giá Của Một Chỗ Ngủ Khô".
