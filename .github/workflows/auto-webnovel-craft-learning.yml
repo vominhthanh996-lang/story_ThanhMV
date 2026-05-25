@@ -1,8 +1,12 @@
 name: Auto Webnovel Craft Learning 5m
 
 on:
+  repository_dispatch:
+    types:
+      - auto-webnovel-craft-learning
+  workflow_dispatch:
   schedule:
-    # Run every 5 minutes on GitHub Actions. This works even when the local PC is off.
+    # Fallback only. GitHub schedule is best-effort and may delay/drop runs.
     - cron: '*/5 * * * *'
 
 permissions:
