@@ -91,6 +91,16 @@ A chapter is not ready if:
 - A rescue has no consequence.
 - The ending does not make the reader want the next chapter.
 
+## Full Episode Gate
+
+Before calling any episode/tập "full", run this gate and fix the draft if it fails:
+
+- **Length sanity check**: compare the new tập against the most recent finished tập. A "full" tập should not be materially shorter unless the user explicitly asked for a short draft. For this project, a serious YouTube/webnovel tập should normally target at least 25k-35k Vietnamese words in the current 10-part format, or 80-110 short chapters for a true 10-hour episode.
+- **Part density check**: each of the 10 parts needs more than a plot summary. It should contain a dramatized material problem, a social/emotional conflict, a visible object, a choice with cost, and a hook into the next part.
+- **No premature completion**: do not say "xong full tập" if the draft is only an outline-shaped pass, if most parts are under-dramatized, or if total length is far below the established project baseline.
+- **Continuity check**: before finalizing, compare the opening against the previous tập ending and compare the final hook against the next arc promise.
+- **Human-prose check**: if a part can be summarized in three lines without losing much feeling, expand it with bodies, hunger, gestures, debt, shame, practical work, and disagreement.
+
 Use `references/style-bible.md` and `references/revision-checklist.md` for deeper guidance when doing serious drafting or revision.
 
 Use `references/plot-engine.md` when planning long arcs, creating chapter events, making 10-hour episode outlines, or fixing a draft that feels rushed, flat, or summary-like.

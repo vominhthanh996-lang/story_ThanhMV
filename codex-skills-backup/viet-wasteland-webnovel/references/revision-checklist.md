@@ -92,3 +92,19 @@ Before ending a chapter, part, episode, or arc:
 - If this is an episode/arc ending, did it close the current material goal while opening a larger moral/social goal?
 
 Good endings leave the listener satisfied for tonight but worried about tomorrow.
+
+## 9. Full Tập Approval Gate
+
+Do not approve or announce a tập as "full" until all checks pass:
+
+- Count words for every part and total the episode.
+- Compare the total with the previous 1-2 completed episodes.
+- If the current tập is below about 25k words in the 10-part format, treat it as a compressed draft, not a finished đại-thần-style episode.
+- Each part should have enough scene weight to survive audio narration: at least one full dramatized scene, one concrete survival transaction, one character disagreement, one cost, and one hook.
+- If a part is short, do not pad with exposition. Expand with:
+  - a queue, meal, wound, tool, ration, inspection, repair, or trade;
+  - a person who disagrees with Lâm Tịch for an understandable reason;
+  - a small tenderness that nobody names as tenderness;
+  - a practical consequence that changes tomorrow's water, food, medicine, trust, or law.
+
+If any item fails, revise before final response.
